@@ -1,4 +1,4 @@
-📊 Power BI Sales Dashboard – Balaji Traders & Namkeen
+📊 Power BI Sales Dashboard – Balaji Traders
 🚀 Project Overview
 
 This interactive Power BI Dashboard provides a comprehensive analysis of sales performance, profitability, customer behavior, and payment trends for Balaji Traders & Namkeen. The dashboard enables business users to monitor key performance indicators (KPIs) and make data-driven decisions through intuitive visualizations and dynamic filters.
